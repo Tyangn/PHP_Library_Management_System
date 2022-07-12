@@ -1,0 +1,27 @@
+body{
+    min-width: 1900px;
+}
+.titleSpan{
+    line-height: 70px;text-align: center;font-family:Microsoft YaHei;font-weight: bold;
+    width: 80px;position: absolute;float: left;
+}
+.topP{
+    color: black;text-decoration: none;display: block;width: 100%;height:auto;
+}
+.topP:hover{
+    color: #66ccff;text-decoration: none;
+}
+.topP1{
+    color: black;text-decoration: none;display: block;width: 100%;height:auto;
+}
+.topP1:hover{
+    color: red;text-decoration: none;
+}
+.titleSpanHover:hover{
+    border-bottom:solid #66ccff;
+    color: #66ccff;
+}
+.titleSpanHover1:hover{
+    border-bottom:solid red;
+    color: red;
+}
